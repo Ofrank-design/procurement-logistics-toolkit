@@ -1,6 +1,6 @@
 # 🛠️ Procurement & Logistics Toolkit
 
-> A free, browser-based toolkit for supply chain and procurement professionals — no login, no install, no cost.
+> A free, browser-based toolkit for supply chain and procurement professionals  no login, no install, no cost.
 
 **[▶ Live Demo →](https://ofrank-design.github.io/procurement-logistics-toolkit)**
 
@@ -42,7 +42,7 @@ Four practical tools in one clean web app:
 ## How to Use
 
 **Option 1 — Use the live version:**
-Go to [ofrank-design.github.io/procurement-logistics-toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit) — nothing to install.
+Go to [ofrank-design.github.io/procurement-logistics-toolkit](https://ofrank-design.github.io/procurement-logistics-toolkit) nothing to install.
 
 **Option 2 — Run it locally:**
 ```bash
@@ -102,7 +102,7 @@ Fuel surcharge and insurance are applied on top.
 
 ## Contributing
 
-Contributions are welcome. If you work in procurement or logistics and want to improve the tool — better rate tables, additional currencies, new features — open a pull request or raise an issue.
+Contributions are welcome. If you work in procurement or logistics and want to improve the tool  better rate tables, additional currencies, new features  open a pull request or raise an issue.
 
 ---
 
@@ -110,7 +110,7 @@ Contributions are welcome. If you work in procurement or logistics and want to i
 
 Built by **Frank Oduro** — BSc Procurement & Supply Chain Management student at Kumasi Technical University (KSTU), Ghana. 
 
-Building real, usable tools from Day 1 of study.
+Building real, usable tools
 
 - 🌐 [Portfolio](https://ofrank-design.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/ofrank-design)
